@@ -197,4 +197,6 @@
 196. How will you remove blank lines froma file in Unix?
 197. How will you find the remote hosts that are connecting to your systemon a specific port in Unix?
 198. What is xargs in Unix?
-DevOps
+
+
+Full Link :- https://github.com/manikanta-suru/DevOps-Interview-Questions/blob/main/DevOps%20interview%20Questions.pdf
